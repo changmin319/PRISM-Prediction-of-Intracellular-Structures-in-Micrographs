@@ -152,7 +152,5 @@ If you find this useful for your research, please use the following.:
 ```
 
 ## Acknowledgments
-<img width="1080" height="1080" alt="www alltoall net_video_project1080_vK2jemi0k1" src="https://github.com/user-attachments/assets/8e51b55a-1376-424d-a7c3-785d87b139ac" />
-
 
 Code builds on **[pix2pixHD](https://github.com/NVIDIA/pix2pixHD)** (NVIDIA Research)
